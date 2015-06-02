@@ -1,0 +1,7 @@
+.contact:hover {
+  cursor: pointer;
+}
+
+#show-contact {
+  display: none;
+}
